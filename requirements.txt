@@ -1,5 +1,5 @@
-python-telegram-bot==20.7
-anthropic==0.21.3
-python-docx==1.1.0
-PyMuPDF==1.23.22
-requests==2.31.0
+python-telegram-bot[all]==20.7
+anthropic
+python-docx
+pymupdf
+requests
