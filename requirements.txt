@@ -1,4 +1,4 @@
-python-telegram-bot[all]==20.7
+python-telegram-bot==21.3
 anthropic
 python-docx
 pymupdf
